@@ -1,0 +1,16 @@
+Flask==1.1.2
+Flask_SQLAlchemy==2.5.1
+tensorflow==2.3.1
+Werkzeug==1.0.1
+numpy==1.17.4
+Flask_Bootstrap==3.3.7.1
+scipy==1.5.0
+packaging==20.4
+opencv_python==4.5.1.48
+pandas==1.0.5
+six==1.15.0
+matplotlib==3.2.2
+Pillow==8.2.0
+protobuf==3.15.8
+scikit_learn==0.24.2
+-e git://github.com/maxcountryman/flask-uploads.git@f66d7dc93e684fa0a3a4350a38e41ae00483a796#egg=Flask_Uploads
